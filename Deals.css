@@ -1,0 +1,27 @@
+#d1,#d2,#d3
+{
+    display: flex;
+    flex-direction: row;
+}
+#s1,#s4,#s7
+{
+    margin-left: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+#s2,#s5,#s8
+{
+    margin-left: 140px;
+}
+#s3,#s6,#s9
+{
+    margin-left: 110px;
+}
+body{
+    background-image: url("https://media.istockphoto.com/id/1093274616/vector/comic-book-pop-art-strip-radial-backdrop.jpg?s=612x612&w=0&k=20&c=ca8CGoFZzfx2csl7E_1MF_CAgo6-suXJti9l7cBnMzo=");
+    background-repeat: no-repeat; 
+    background-size: cover;
+}

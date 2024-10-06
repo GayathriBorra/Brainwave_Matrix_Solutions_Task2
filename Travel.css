@@ -1,0 +1,27 @@
+#d1,#d2,#d3
+{
+    display: flex;
+    flex-direction: row;
+}
+#s1,#s4,#s7
+{
+    margin-left: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+#s2,#s5,#s8
+{
+    margin-left: 100px;
+}
+#s3,#s6,#s9
+{
+    margin-left: 170px;
+}
+body{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/231/113/301/background-solid-glare-light-wallpaper-preview.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover;
+}

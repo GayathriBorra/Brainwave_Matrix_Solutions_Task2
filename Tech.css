@@ -1,0 +1,27 @@
+#d1,#d2,#d3
+{
+    display: flex;
+    flex-direction: row;
+}
+#s1,#s4,#s7
+{
+    margin-left: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+#s2,#s5,#s8
+{
+    margin-left: 100px;
+}
+#s3,#s6,#s9
+{
+    margin-left: 170px;
+}
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20201022/pngtree-abstract-technology-background-line-high-tech-electricity-image_430309.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
